@@ -1,2 +1,1 @@
-Used resources: GitHub Copilot Chat 
-
+Used resources: GitHub Copilot, Lecture 6 notes
